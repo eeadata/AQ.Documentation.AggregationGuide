@@ -6,7 +6,7 @@ The EEA processes primary air quality measurement data submitted by countries to
 
 Primary data are delivered by reporting countries through two main channels:
 
-- **E1a**: Officially validated data, submitted via the Central Data Repository (CDR).
+- **E1a:** Officially validated data submitted through the Air Quality eReporting system.
 
 - **UTD (Up-To-Date)**: Near-real-time data, provided via File Transfer Protocol (FTP) or Sensor Observation Service (SOS) endpoints.
 

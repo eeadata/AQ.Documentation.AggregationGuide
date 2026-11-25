@@ -81,7 +81,7 @@ Table 4 and Table 5 complement Table 3 by specifying:
 </thead>
 <tbody>
 <tr class="odd">
-<td rowspan="3"><p>SO<sub>2</sub></p>
+<td rowspan="3"><p>SO2</p>
 <p><a class="aura-pollutant-code" href="http://dd.eionet.europa.eu/vocabulary/aq/pollutant/1">1</a></p></td>
 <td><blockquote>
 <p>KEY</p>
@@ -151,7 +151,7 @@ Table 4 and Table 5 complement Table 3 by specifying:
 <td><ul>
 <li><p>daily mean</p></li>
 <li><p>hours with c&gt;350 µg/m<sup>3</sup> in 1 month</p></li>
-<li><p>25<sup>th</sup> highest hourly value</p></li>
+<li><p>25th highest hourly value</p></li>
 <li><p>99.73 percentile</p></li>
 <li><p>99.79 percentile</p></li>
 <li><p>50 percentile</p></li>
@@ -167,8 +167,8 @@ Table 4 and Table 5 complement Table 3 by specifying:
 <p><strong>P1Y-hr-max</strong></p>
 <p><strong>P1Y-hr-min</strong></p></td>
 <td><ul>
-<li><p>4<sup>th</sup> highest daily value</p></li>
-<li><p>99.18 percentile{ref}`[14] <footnote-14>`</p></li>
+<li><p>4th highest daily value</p></li>
+<li><p>99.18 percentile</p></li>
 <li><p>99 percentile</p></li>
 <li><p>95.07 percentile</p></li>
 <li><p>50 percentile</p></li>
@@ -176,7 +176,7 @@ Table 4 and Table 5 complement Table 3 by specifying:
 <li><p>daily minimum</p></li>
 </ul></td>
 <td><p><strong>P1Y-day-max4</strong></p>
-<p><strong>P1Y-day-max-per99.18</strong><a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+<p><strong>P1Y-day-max-per99.18</strong><a class="reference internal" href="footnotes.html#footnote-14">[14]</a></p>
 <p><strong>P1Y-P1D-per99</strong></p>
 <p><strong>P1Y-P1D-per95.07</strong></p>
 <p><strong>P1Y-day-per50</strong></p>
@@ -188,7 +188,7 @@ Table 4 and Table 5 complement Table 3 by specifying:
 <td></td>
 </tr>
 <tr class="even">
-<td rowspan="3"><p>NO<sub>2</sub></p>
+<td rowspan="3"><p>NO2</p>
 <p><a class="aura-pollutant-code" href="http://dd.eionet.europa.eu/vocabulary/aq/pollutant/8">8</a></p></td>
 <td><blockquote>
 <p>KEY</p>
@@ -253,7 +253,7 @@ Table 4 and Table 5 complement Table 3 by specifying:
 <li><p>daily mean</p></li>
 <li><p>day hour max</p></li>
 <li><p>hours with c&gt;200 μg/m<sup>3</sup> in 1 month</p></li>
-<li><p>19<sup>th</sup> highest hourly value</p></li>
+<li><p>19th highest hourly value</p></li>
 <li><p>99.79 percentile</p></li>
 <li><p>99.97 percentile</p></li>
 <li><p>hours c&gt;400 μg/m<sup>3</sup></p></li>
@@ -295,7 +295,7 @@ Table 4 and Table 5 complement Table 3 by specifying:
 <td></td>
 </tr>
 <tr class="odd">
-<td rowspan="2"><p>NO<sub>x</sub></p>
+<td rowspan="2"><p>NOx</p>
 <p><a class="aura-pollutant-code" href="http://dd.eionet.europa.eu/vocabulary/aq/pollutant/9">9</a></p></td>
 <td><blockquote>
 <p>KEY</p>
@@ -347,7 +347,7 @@ Table 4 and Table 5 complement Table 3 by specifying:
 <td></td>
 </tr>
 <tr class="odd">
-<td rowspan="3"><p>O<sub>3</sub></p>
+<td rowspan="3"><p>O3</p>
 <p><a class="aura-pollutant-code" href="http://dd.eionet.europa.eu/vocabulary/aq/pollutant/7">7</a></p></td>
 <td><blockquote>
 <p>KEY</p>
@@ -466,7 +466,7 @@ Table 4 and Table 5 complement Table 3 by specifying:
 <p><strong>P1Y-day-min</strong></p></td>
 <td><ul>
 <li><p>Maximum daily 8-hour max in a year</p></li>
-<li><p>26<sup>th</sup> highest 8h day max</p></li>
+<li><p>26th highest 8h day max</p></li>
 <li><p>93.15 percentile (max26)</p></li>
 <li><p>95.07 perdentile</p></li>
 <li><p>99 percentile</p></li>
@@ -569,7 +569,7 @@ Table 4 and Table 5 complement Table 3 by specifying:
 <td></td>
 </tr>
 <tr class="odd">
-<td rowspan="3"><p>PM<sub>10</sub></p>
+<td rowspan="3"><p>PM10</p>
 <p><a class="aura-pollutant-code" href="http://dd.eionet.europa.eu/vocabulary/aq/pollutant/5">5</a></p></td>
 <td><blockquote>
 <p>KEY</p>
@@ -642,8 +642,8 @@ Table 4 and Table 5 complement Table 3 by specifying:
 <li><p>90.41 percentile</p></li>
 <li><p>99 percentile</p></li>
 <li><p>95.07 percentile</p></li>
-<li><p>36<sup>th</sup> highest daily value</p></li>
-<li><p>50<sup>th</sup> percentile</p></li>
+<li><p>36th highest daily value</p></li>
+<li><p>50th percentile</p></li>
 <li><p>daily maximum</p></li>
 <li><p>daily minimum</p></li>
 </ul></td>
@@ -660,7 +660,7 @@ Table 4 and Table 5 complement Table 3 by specifying:
 <td></td>
 </tr>
 <tr class="even">
-<td rowspan="3"><p>PM<sub>2.5</sub></p>
+<td rowspan="3"><p>PM2.5</p>
 <p><a class="aura-pollutant-code" href="http://dd.eionet.europa.eu/vocabulary/aq/pollutant/6001">6001</a></p></td>
 <td><blockquote>
 <p>KEY</p>
@@ -743,7 +743,7 @@ Table 4 and Table 5 complement Table 3 by specifying:
 <td></td>
 </tr>
 <tr class="odd">
-<td rowspan="2"><p>Benzene (C<sub>6</sub>H<sub>6</sub>)</p>
+<td rowspan="2"><p>Benzene (C6H6)</p>
 <p><a class="aura-pollutant-code" href="http://dd.eionet.europa.eu/vocabulary/aq/pollutant/20">20</a></p></td>
 <td><blockquote>
 <p>KEY</p>
@@ -791,15 +791,15 @@ Table 4 and Table 5 complement Table 3 by specifying:
 <td></td>
 </tr>
 <tr class="odd">
-<td rowspan="2"><p>As in PM<sub>10</sub></p>
+<td rowspan="2"><p>As in PM10</p>
 <p><a class="aura-pollutant-code" href="http://dd.eionet.europa.eu/vocabulary/aq/pollutant/5018">5018</a></p>
-<p>Cd in PM<sub>10</sub></p>
+<p>Cd in PM10</p>
 <p><a class="aura-pollutant-code" href="http://dd.eionet.europa.eu/vocabulary/aq/pollutant/5014">5014</a></p>
-<p>Ni in PM<sub>10</sub></p>
+<p>Ni in PM10</p>
 <p><a class="aura-pollutant-code" href="http://dd.eionet.europa.eu/vocabulary/aq/pollutant/5015">5015</a></p>
-<p>Pb in PM<sub>10</sub></p>
+<p>Pb in PM10</p>
 <p><a class="aura-pollutant-code" href="http://dd.eionet.europa.eu/vocabulary/aq/pollutant/5012">5012</a></p>
-<p>BaP in PM<sub>10</sub></p>
+<p>BaP in PM10</p>
 <p><a class="aura-pollutant-code" href="http://dd.eionet.europa.eu/vocabulary/aq/pollutant/5029">5029</a></p></td>
 <td><blockquote>
 <p>KEY</p>
@@ -898,49 +898,49 @@ NOTES:* \* *If daily values reported. \*\* Component codelist is http://dd.eione
 <tr>
 <td><strong>AOT40c</strong></td>
 <td>AOT40cmeasured</td>
-<td>O&lt;sub&gt;3&lt;/sub&gt;</td>
+<td>O3</td>
 <td>85% (939) hours in averaging period (1 May to 31 July)</td>
-<td><a href="https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/AOT40c">&lt;u&gt;https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/AOT40c&lt;/u&gt;</a></td>
+<td><a href="https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/AOT40c"><u>https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/AOT40c</u></a></td>
 </tr>
 <tr>
 <td><strong>P1D</strong></td>
 <td>All aggregations with base P1D</td>
 <td>All</td>
 <td>75% of hours in the day (18 hours)</td>
-<td><a href="https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1D">&lt;u&gt;https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1D&lt;/u&gt;</a></td>
+<td><a href="https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1D"><u>https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1D</u></a></td>
 </tr>
 <tr>
 <td><strong>P1Y</strong></td>
 <td>P3Y</td>
-<td>PM&lt;sub&gt;10&lt;/sub&gt;, BaP in PM&lt;sub&gt;10&lt;/sub&gt;, PM&lt;sub&gt;2.5&lt;/sub&gt;, O&lt;sub&gt;3&lt;/sub&gt;{ref}<code>[15] &lt;footnote-15&gt;</code>, NO&lt;sub&gt;2&lt;/sub&gt;, NO&lt;sub&gt;X&lt;/sub&gt; as NO&lt;sub&gt;2&lt;/sub&gt;</td>
+<td>PM10, BaP in PM10, PM2.5, O3<a class="reference internal" href="footnotes.html#footnote-15">[15]</a>, NO2, NOX as NO2</td>
 <td>85% of hours/days (7446 hours/311 days) (if leap year 7470 hours/312 days)</td>
-<td><a href="https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1Y">&lt;u&gt;https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1Y&lt;/u&gt;</a></td>
+<td><a href="https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1Y"><u>https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1Y</u></a></td>
 </tr>
 <tr>
 <td><strong>P1Y</strong></td>
 <td>P3Y</td>
-<td>BaP in PM&lt;sub&gt;10&lt;/sub&gt;</td>
+<td>BaP in PM10</td>
 <td>30% of hours/days (2628 hours/110 days) (if leap year 2636 hours/110 days)</td>
-<td><a href="https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1Y">&lt;u&gt;https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1Y&lt;/u&gt;</a></td>
+<td><a href="https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1Y"><u>https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1Y</u></a></td>
 </tr>
 <tr>
 <td><strong>P1Y-dmaxAbove120</strong></td>
 <td>P3Y-dmaxAbove120</td>
-<td>O&lt;sub&gt;3&lt;/sub&gt;</td>
+<td>O3</td>
 <td>85% of P8H-dmax (311 values) (if leap year 312 values)</td>
-<td><a href="https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1Y-dmaxAbove120">&lt;u&gt;https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1Y-dmaxAbove120&lt;/u&gt;</a></td>
+<td><a href="https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1Y-dmaxAbove120"><u>https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1Y-dmaxAbove120</u></a></td>
 </tr>
 <tr>
 <td><strong>P8H-dmax</strong></td>
 <td>All aggregations with base P8H-dmax</td>
-<td>O&lt;sub&gt;3&lt;/sub&gt;, CO</td>
+<td>O3, CO</td>
 <td>75% of valid P8H-run in the day (18)</td>
-<td><a href="https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P8H-dmax">&lt;u&gt;https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P8H-dmax&lt;/u&gt;</a></td>
+<td><a href="https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P8H-dmax"><u>https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P8H-dmax</u></a></td>
 </tr>
 <tr>
 <td><strong>P8H-run</strong></td>
 <td>P8H-dmax</td>
-<td>O&lt;sub&gt;3&lt;/sub&gt;, CO</td>
+<td>O3, CO</td>
 <td>75% of hours</td>
 <td><a href="https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P8H-run">https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P8H-run</a></td>
 </tr>
@@ -991,7 +991,7 @@ NOTES:* \* *If daily values reported. \*\* Component codelist is http://dd.eione
 <td><strong>AOT40c-P5Y</strong></td>
 <td colspan="2">AOT40h</td>
 <td>O<sub>3</sub></td>
-<td colspan="2">3 valid AOT40c<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></td>
+<td colspan="2">3 valid AOT40c<a class="reference internal" href="footnotes.html#footnote-17">[17]</a></td>
 <td><a href="https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/AOT40c-P5Y"><u>https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/AOT40c-P5Y</u></a></td>
 </tr>
 <tr class="even">
@@ -1095,7 +1095,7 @@ NOTES:* \* *If daily values reported. \*\* Component codelist is http://dd.eione
 <tr class="even">
 <td><strong>P1Y</strong></td>
 <td colspan="2">hour, day, var</td>
-<td>SO<sub>2</sub>, NO<sub>2</sub>, NO<sub>X</sub> as NO<sub>2</sub>, O<sub>3</sub><sup>9</sup>, PM<sub>10</sub>, PM<sub>2.5</sub>, C<sub>6</sub>H<sub>6</sub></td>
+<td>SO<sub>2</sub>, NO<sub>2</sub>, NO<sub>X</sub> as NO<sub>2</sub>, O<sub>3</sub><a class="reference internal" href="footnotes.html#footnote-15">[15]</a>, PM<sub>10</sub>, PM<sub>2.5</sub>, C<sub>6</sub>H<sub>6</sub></td>
 <td colspan="2">85% of hours/days (7446 hours*/311 days**)</td>
 <td><a href="https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1Y"><u>https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1Y</u></a></td>
 </tr>
@@ -1249,35 +1249,35 @@ NOTES:* \* *If daily values reported. \*\* Component codelist is http://dd.eione
 <tr class="even">
 <td><strong>P1Y-dmaxAbove100</strong></td>
 <td colspan="2">P8H-dmax</td>
-<td>O<sub>3</sub> <sup>9</sup></td>
+<td>O<sub>3</sub><a class="reference internal" href="footnotes.html#footnote-15">[15]</a></td>
 <td colspan="2">85% of P8H-dmax (311*** values)</td>
 <td><a href="https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1Y-dmaxAbove100">https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1Y-dmaxAbove100</a></td>
 </tr>
 <tr class="odd">
 <td><strong>P1Y-dmaxAbove120</strong></td>
 <td colspan="2">P8H-dmax</td>
-<td>O<sub>3</sub> <sup>9</sup></td>
+<td>O<sub>3</sub><a class="reference internal" href="footnotes.html#footnote-15">[15]</a></td>
 <td colspan="2">85% of P8H-dmax (311*** values)</td>
 <td><a href="https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1Y-dmaxAbove120"><u>https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1Y-dmaxAbove120</u></a></td>
 </tr>
 <tr class="even">
 <td><strong>P1Y-dmax-per93.15</strong></td>
 <td colspan="2">P8H-dmax</td>
-<td>O<sub>3</sub> <sup>9</sup></td>
+<td>O<sub>3</sub><a class="reference internal" href="footnotes.html#footnote-15">[15]</a></td>
 <td colspan="2">85% of P8H-dmax (311*** values)</td>
 <td><a href="https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1Y-dmax-per93.15"><u>https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1Y-dmax-per93.15</u></a></td>
 </tr>
 <tr class="odd">
 <td><strong>P1Y-dmax-per95.07</strong></td>
 <td colspan="2">P8H-dmax</td>
-<td>O<sub>3</sub> <sup>9</sup></td>
+<td>O<sub>3</sub><a class="reference internal" href="footnotes.html#footnote-15">[15]</a></td>
 <td colspan="2">85% of P8H-dmax (311*** values)</td>
 <td><a href="https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1Y-dmax-per95.07">https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1Y-dmax-per95.07</a></td>
 </tr>
 <tr class="even">
 <td><strong>P1Y-dmax-per99</strong></td>
 <td colspan="2">P8H-dmax</td>
-<td>O<sub>3</sub> <sup>9</sup></td>
+<td>O<sub>3</sub><a class="reference internal" href="footnotes.html#footnote-15">[15]</a></td>
 <td colspan="2">85% of P8H-dmax (311*** values)</td>
 <td><a href="https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1Y-dmax-per99"><u>https://dd.eionet.europa.eu/vocabularyconcept/aq/aggregationprocess/P1Y-dmax-per99</u></a></td>
 </tr>
@@ -1512,7 +1512,7 @@ NOTES:* \* *If daily values reported. \*\* Component codelist is http://dd.eione
 <p><strong>*** if leap year: 312 valid P8H-dmax</strong></p>
 <p><strong>**** if leap year: 22359 hours/932 days</strong></p>
 <p><strong>***** if leap year: 932 valid P8H-dmax</strong></p>
-<p><strong>****** if leap year: 3734 hours/156 days</strong>{ref}`[17] <footnote-17>`</p></td>
+<p><strong>****** if leap year: 3734 hours/156 days</strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2039,17 +2039,17 @@ $${AOT40}_{estimate} = \ \frac{{AOT40}_{measured} \cdot N_{period}}{N_{valid}}$$
 
 where *N<sub>valid</sub>* is the number of valid hourly values and *N<sub>period</sub>* is the number of hours in the period (1104 hours for AOT40c and 2196 for AOT40f).
 
-### 5.8.1 Numberof valid hours for AOT40 (AOT40-nv)
+### 5.8.1 Number of valid hours for AOT40 (AOT40-nv)
 
 In order to process AOT40, the number of valid hourly values need to be calculated. This will depend on whether the AOT40 is calculated for the protection of vegetation or the forest protection:
 
-- Number of valid hours for AOT40c (**AOT40c-nv**)[^19]: Count the number of valid hourly (flag 1, 2, 3 or 4) between *StartTime* ≥ 07:00 UTC and *EndTime* ≤ 19:00 UTC (or *StartTime* \>= 08:00 UTC+01 and *EndTime* \<= 20:00 UTC+01) between 1<sup>st</sup> May and 31<sup>th</sup> July.
+- Number of valid hours for AOT40c (**AOT40c-nv**){ref}`[21] <footnote-21>`: Count the number of valid hourly (flag 1, 2, 3 or 4) between *StartTime* ≥ 07:00 UTC and *EndTime* ≤ 19:00 UTC (or *StartTime* \>= 08:00 UTC+01 and *EndTime* \<= 20:00 UTC+01) between 1<sup>st</sup> May and 31<sup>st</sup> July.
 
-- Number of valid hours for AOT40f (AOT40f-nv)[^20]: Count the number of valid hourly values (flag 1, 2 or 3) between *StartTime* ≥ 07:00 UTC and *EndTime* ≤ 19:00 UTC (or *StartTime* \>= 08:00 UTC+01 and *EndTime* \<= 20:00 UTC+01) between 1<sup>st</sup> April and 31<sup>st</sup> September.
+- Number of valid hours for AOT40f (AOT40f-nv){ref}`[22] <footnote-22>`: Count the number of valid hourly values (flag 1, 2 or 3) between *StartTime* ≥ 07:00 UTC and *EndTime* ≤ 19:00 UTC (or *StartTime* \>= 08:00 UTC+01 and *EndTime* \<= 20:00 UTC+01) between 1<sup>st</sup> April and 30<sup>th</sup> September.
 
 ### 5.8.2 AOT40 for vegetation protection (AOT40c)
 
-For the AOT40 vegetation (AOT40c) the time period is the 3-month growing season for crops: from 1<sup>st</sup> May to 31<sup>th</sup> July each year. It is calculated as follows:
+For the AOT40 vegetation (AOT40c) the time period is the 3-month growing season for crops: from 1<sup>st</sup> May to 31<sup>st</sup> July each year. It is calculated as follows:
 
 $$AOT40c = \frac{AOT40c_{measured}}{AOT40c\_ nv}*1104$$
 
@@ -2197,7 +2197,7 @@ Where data coverage is below 90% for any given year, it is recommended to follow
 
 ## 5.12 National Exposure Reduction Target (NERT)
 
-The National Exposure Reduction Target (NERT) according to the Directive 2008/50/EC, Annex I, Section B will be established based on the first reporting of AEI. According to the Member States, difficulties were encountered in calculating the first AEI mainly because it was not possible to attain 90% data capture for all sites for various reasons (e.g. insufficient time to choose the monitoring sites and to install the equipment). Due to the importance of having a basis for establishing the NERT, AQUILA has produced guidance recommending<sup>18</sup> how to deal with the AEI when minimum requirement for data capture is not fulfilled for some stations. Therefore, if minimum data capture was not achieved in the years needed to establish the baseline AEI, it is recommended to follow the procedure developed by AQUILA. Other procedures/methods may be used if they are well documented \[e.g., Spanish Royal Decret 102/2011\].
+The National Exposure Reduction Target (NERT) according to the Directive 2008/50/EC, Annex I, Section B will be established based on the first reporting of AEI. According to the Member States, difficulties were encountered in calculating the first AEI mainly because it was not possible to attain 90% data capture for all sites for various reasons (e.g. insufficient time to choose the monitoring sites and to install the equipment). Due to the importance of having a basis for establishing the NERT, AQUILA has produced guidance recommending{ref}`[25] <footnote-25>` how to deal with the AEI when minimum requirement for data capture is not fulfilled for some stations. Therefore, if minimum data capture was not achieved in the years needed to establish the baseline AEI, it is recommended to follow the procedure developed by AQUILA. Other procedures/methods may be used if they are well documented \[e.g., Spanish Royal Decret 102/2011\].
 
 For example, if the average exposure indicator of one member state is equal to 16.4 µg/m<sup>3</sup>, this value has to be compared with the initial concentration threshold of 18.0 µg/m<sup>3</sup> to establish the reduction target.
 

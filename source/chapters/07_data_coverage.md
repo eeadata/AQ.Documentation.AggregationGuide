@@ -36,7 +36,7 @@ The data coverage is the percentage of valid measurements over the given averagi
 
 ## 7.2 Calculation algorithms
 
-For all aggregations, the following is “counted” in the corresponding period of aggregation[^26]:
+For all aggregations, the following is “counted” in the corresponding period of aggregation{ref}`[28] <footnote-28>`:
 
 - *count_validdata*: number of measures with validity flag \> 0
 
